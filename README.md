@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ##### 2019.06 ~ 2022.10 HIRA (Health Insurance Review & Assessment Service)
 ##### 2017.12 ~ 2019.05 Nongshim Data System
 
-####Skills: Java / Spring / Kubernetes / CI/CD / Devops
+#### Skills: Java / Spring / Kubernetes / CI/CD / Devops
 
 - 📫 How to reach me: wox0715@naver.com 
 
