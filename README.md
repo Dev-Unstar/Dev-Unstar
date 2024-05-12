@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, My name is Unseong Seo
 #### I'm Backend Developer
 ##### 2022.11 ~ KPMG Samjong Accounting corp
-##### 2019.06 ~ 2022.10 HIRA 
-(Health Insurance Review & Assessment Service)
+##### 2019.06 ~ 2022.10 HIRA (Health Insurance Review & Assessment Service)
 ##### 2017.12 ~ 2019.05 Nongshim Data System
 
 ####Skills: Java / Spring / Kubernetes / CI/CD / Devops
