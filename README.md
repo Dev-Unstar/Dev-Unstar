@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, My name is Unseong Seo
 #### I'm Backend Developer
-#####2022.11 ~ KPMG Samjong Accounting corp
-#####2019.06 ~ 2022.10 HIRA 
-(Health Insurance Review & ASSESSMENT SERVICE)
-#####2017.12 ~ 2019.05 Nongshim Data System
+##### 2022.11 ~ KPMG Samjong Accounting corp
+##### 2019.06 ~ 2022.10 HIRA 
+(Health Insurance Review & Assessment Service)
+##### 2017.12 ~ 2019.05 Nongshim Data System
 
-Skills: Java / Spring / Kubernetes / CI/CD / Devops
+####Skills: Java / Spring / Kubernetes / CI/CD / Devops
 
 - 📫 How to reach me: wox0715@naver.com 
 
